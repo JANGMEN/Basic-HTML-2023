@@ -12,6 +12,7 @@ Java 개발자 과정 프론트엔드 리포지토리
 <!-- ![멀티미디어](https://raw.githubusercontent.com/JANGMEN/Basic-HTML-2023/main/image/day01.png) -->
 <img src="https://raw.githubusercontent.com/JANGMEN/Basic-HTML-2023/main/image/day01.png" width="300">
 
+
 ## 2일차
 - HTML 5 학습
     - HTML 5 입력태그
