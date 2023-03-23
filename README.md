@@ -19,5 +19,14 @@ Java 개발자 과정 프론트엔드 리포지토리
 ## 2일차
 - HTML 5 학습
     - HTML 5 입력태그
-    - CSS 3 기본
+    - CSS 3 기본문법
     - CSS 3 고급
+
+## 3일차
+- HTML 5 학습
+    - CSS 고급
+    - HTML 레이아웃
+    - 반응형 웹
+
+3일차 학습내용
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-HTML-2023/main/image/Day03.png" width="600">
