@@ -82,5 +82,6 @@ Java 개발자 과정 프론트엔드 리포지토리
 ## 8일차
 - 프론트엔드 학습
     - Single Page Template
+    - SB Admin Page
 
 
