@@ -50,7 +50,7 @@ Java 개발자 과정 프론트엔드 리포지토리
     - Bootstrap Album example 클로닝
 
 ## 6일차
-- 프론트엔드 학습
+- 프론트엔드 실습
     - Bootstrap Album example 마무리
     - 6일차 Bootstrap 앨범 클로닝
 
@@ -60,7 +60,7 @@ Java 개발자 과정 프론트엔드 리포지토리
     - 포트폴리오 웹사이트 만들기
 
 ## 7일차
-- 프론트엔드 학습
+- 프론트엔드 실습
     - 핀터레스트 스타일 웹페이지 마무리
         - Bootstrap 5.3.0
         - jQuery 3.6.4
@@ -80,7 +80,7 @@ Java 개발자 과정 프론트엔드 리포지토리
 <img src="https://raw.githubusercontent.com/JANGMEN/Basic-HTML-2023/main/image/KakaoTalk_20230329_152225880.png" width="700">
 
 ## 8일차
-- 프론트엔드 학습
+- 프론트엔드 실습
     - Single Page Template
     - SB Admin Page
 
@@ -89,11 +89,27 @@ Grayscale Single Page Template
 <img src="https://raw.githubusercontent.com/JANGMEN/Basic-HTML-2023/main/image/portfolio3.gif" width="700">
 
 ## 9일차
-- 프론트엔드 학습
+- 프론트엔드 실습
     - SB Admin Page
 
 SB Admin Page 중간단계
 
 <img src="https://raw.githubusercontent.com/JANGMEN/Basic-HTML-2023/main/image/portfolio4_middle.png" width="700">
+
+## 10일차
+- 프론트엔드 실습
+    - SB Admin Page 마무리
+        - [simple-datatables.js](https://github.com/fiduswriter/simple-datatables)
+
+SB Admin Page 마무리
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-HTML-2023/main/image/portfolio4_last.png" width="700">
+
+## 11일차
+- 프론트엔드 실습
+
+## 12일차
+- 프론트엔드 실습
+
 
 
