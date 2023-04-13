@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>넷플릭스 대한민국 - 인터넷으로 시리즈와 영화를 시청하세요</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css" integrity="sha512-rqQltXRuHxtPWhktpAZxLHUVJ3Eombn3hvk9PHjV/N5DMUYnzKPC1i3ub0mEXgFzsaZNeJcoE0YHq0j/GFsdGg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel='stylesheet' type='text/css' media='screen' href='css/style2.css'>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="navbar-brand">
+                <img src="images/streampark_logo.png" alt="logo" class="brand-logo"/>
+            </div>
+
+            <div class="navbar-nav-items">
+                <div class="nav-item">
+                    <div class="dropdown-container">
+                        <i class="fas fa-globe"></i>
+                        <select name="languages" id="languagesSelect" class="language-drop-down">
+                            <option value="korean" selected>한국어</option>
+                            <option value="english">English</option>
+                            <option value="hindi">हिन्दी</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="nav-item">
+                    <button class="signin-button">로그인</button>
+                </div>
+            </div>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="hero">
+            <div class="hero-bg-image-container">
+                <img src="images/KR-ko-20230403-popsignuptwoweeks-perspective_alpha_website_large.jpg"
+                 alt="BG hero image" class="hero-bg-image" />
+            </div>
+            <div class="hero-bg-overlay"></div>
+
+            <div class="hero-card">
+                <h1 class="hero-title">
+                    영화와 시리즈를 무제한으로
+                </h1>
+                <p class="hero-subtitle">다양한 디바이스에서 시청하세요. 언제든 해지하실 수 있습니다.</p>
+                <p class="hero-description">시청할 준비가 되셨나요? 멤버십을 등록하거나 재시작하려면 이메일 주소를 입력하세요.</p>
+                
+                <div class="email-form-container">
+                    <div class="form-container">
+                        <input type="email" class="email-input" placeholder="" />
+                        <label class="email-label">이메일 주소</label>
+                    </div>
+                    <button class="primary-button">
+                        시작하기 <i class="fas fa-chevron-right btn-icon"></i>
+                    </button>
+                </div>
+            </div>
+        </section>
+        <section class="features-container">
+            <!-- feature 1 -->
+            <div class="feature">
+                <div class="feature-details">
+                    <h3 class="feature-title">TV로 즐기세요.</h3>
+                    <h5 class="feature-sub-title">
+                        스마트 TV, PlayStation, Xbox, Chromecast, Apple TV, 블루레이 플레이어 등 다양한 디바이스에서 시청하세요.
+                    </h5>
+                </div>
+                <div class="feature-image-container">
+                    <img src="images/tv.png" alt="Feature image" class="feature-image"/>
+                    <div class="feature-background-video-container">
+                        <video autoplay loop muted class="feature-background-video">
+                            <source src="images/video-tv-0819.m4v" type="video/mp4"/>
+                        </video>
+                    </div>
+                </div>
+            </div>
+            <!-- Feature 2 -->
+            <div class="feature">
+                <div class="feature-details">
+                    <h3 class="feature-title">
+                        다양한 디바이스에서 시청하세요.
+                    </h3>
+                    <h5 class="feature-sub-title">
+                        각종 영화와 시리즈를 스마트폰, 태블릿, 노트북, TV에서 무제한으로 스트리밍하세요. 추가 요금이 전혀 없습니다.
+                    </h5>
+                </div>
+                <div class="feature-image-container feature-2-image-container">
+                    <img src="images/device.png" alt="Feature image" class="feature-image feature-2-image"/>
+                    <div class="feature-background-video-container feature-2-background-video-container">
+                        <video autoplay loop muted class="feature-background-video feature-3-background-video">
+                            <source src="images/video-devices.m4v" type="video/mp4"/>
+                        </video>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+</body>
+</html>
